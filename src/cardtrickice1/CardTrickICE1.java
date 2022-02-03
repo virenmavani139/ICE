@@ -30,6 +30,7 @@ public class CardTrickICE1 {
             c1.setSuits(c1.Getting_Random_Suit());//random method suit 
             
         }
+      Card luckyCard = new Card(1,"diamond");
         //step 2:take input 
         System.out.println("Enter card: ");
         int card=sc.nextInt();
