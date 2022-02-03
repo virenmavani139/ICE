@@ -33,7 +33,7 @@ public class CardTrickICE1 {
         //step 2:take input 
         System.out.println("Enter card: ");
         int card=sc.nextInt();
-        System.out.println("Enter suit(heart, spade, diamond, club): ");
+        System.out.println("Enter suit(heart, spade, diamond, club) : ");
         String suit=sc.next();
         
         
